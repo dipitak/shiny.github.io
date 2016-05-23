@@ -1,0 +1,8 @@
+name: Shinyapp
+account: datascienceshinyapps
+server: shinyapps.io
+bundleId: 460336
+url: https://datascienceshinyapps.shinyapps.io/Shinyapp/
+when: 1464019889.72639
+asMultiple: FALSE
+asStatic: FALSE
